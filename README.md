@@ -1,4 +1,3 @@
-# MrFool_OS
-All the easier, better and new codes for OS Problems
+# Reader_Writer(Simple...)
 
-Here the aim is to have simple and easy codes for complicated problems...
+Here, the codes present do not use mutex or such. Only binary semaphores...
